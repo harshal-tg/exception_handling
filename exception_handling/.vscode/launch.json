@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ExceptionHandlingApplication<exception_handling>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.exception_handling.ExceptionHandlingApplication",
+            "projectName": "exception_handling",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
